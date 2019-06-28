@@ -1,0 +1,10 @@
+@import "_mixins/_mixins.scss";
+
+@include font-face("NeoSansProRegular", "../fonts/NeoSansProRegular/NeoSansProRegular");
+@include font-face("NeoSansProBold", "../fonts/NeoSansProBold/NeoSansProBold", bold);
+@include font-face("MyriadProRegular", "../fonts/MyriadPro/MyriadProRegular/MyriadProRegular");
+@include font-face("Jazz_Ball_Regular", "../fonts/jazz_ball/Jazz_Ball_Regular");
+@include font-face("Jazz_Ball_Bold", "../fonts/jazz_ball/Jazz_Ball_Bold", bold);
+
+
+
